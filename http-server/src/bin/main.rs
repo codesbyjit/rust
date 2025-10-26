@@ -22,6 +22,8 @@ fn main() -> Result<()> {
         });
     }
 
+    println!("Shutting Down");
+
     Ok(())
 }
 
